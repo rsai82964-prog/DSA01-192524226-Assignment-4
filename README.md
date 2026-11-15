@@ -1,7 +1,7 @@
 # DSA01 – Assignment 4: Designing Reusable Class Hierarchies
 
-**Name:** ____________________  
-**Register Number:** ____________________  
+**Name: P Rahul Sai
+**Register Number:192524226
 **Course:** Object Oriented Programming with C++ (DSA01)  
 **Course Outcome:** CO4  
 **Compiler:** g++ 14.2.0 (C++17)  
